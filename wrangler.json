@@ -1,6 +1,8 @@
 {
   "compatibility_date": "2025-04-01",
   "main": "src/server/index.ts",
+  // wrangler.json
+  "name": "niansu360-website",
   "name": "multiplayer-globe-template",
   "migrations": [
     {
@@ -26,4 +28,4 @@
     "enabled": true
   },
   "upload_source_maps": true
-}
+  }
