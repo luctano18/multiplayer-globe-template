@@ -4,7 +4,7 @@
   "name": "niansu360-website",
   "migrations": [
     {
-      "new_sqlite_classes": ["Globe"],
+      "new_sqlite_classes": ["Niansu360 Globe"],
       "tag": "v1"
     }
   ],
@@ -17,7 +17,7 @@
   "durable_objects": {
     "bindings": [
       {
-        "class_name": "Globe",
+        "class_name": "Niansu360 Globe",
         "name": "Globe"
       }
     ]
